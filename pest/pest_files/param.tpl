@@ -1,0 +1,19 @@
+ptf ~
+ hk_dunes               ~        hk_dunes        ~ 
+ hk_valley              ~       hk_valley        ~ 
+ hk_seabed              ~       hk_seabed        ~ 
+ rech_mmyr              ~       rech_mmyr        ~ 
+ alpha_T                ~        alpha_T         ~ 
+ ss                     ~           ss           ~ 
+ sy                     ~           sy           ~ 
+ ne                     ~           ne           ~ 
+ slvl                   ~          slvl          ~ 
+ Bmuni1                 ~         Bmuni1         ~ 
+ Bmuni2                 ~         Bmuni2         ~ 
+ Bmuni3                 ~         Bmuni3         ~ 
+ Bmuni4                 ~         Bmuni4         ~ 
+ Bmuni5                 ~         Bmuni5         ~ 
+ Bmuni6                 ~         Bmuni6         ~ 
+ Bmuni7                 ~         Bmuni7         ~ 
+ Bmuni8                 ~         Bmuni8         ~ 
+ Bmuni9                 ~         Bmuni9         ~ 
