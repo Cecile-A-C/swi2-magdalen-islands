@@ -46,7 +46,7 @@ Doherty, J., 2020. PEST_HP, PEST for highly parallelized computing environments.
 
 The Python scripts were developed using examples from:
 
-- The FloPy documentation (http://github.com/modflowpy/flopy):
+- **The FloPy documentation** (http://github.com/modflowpy/flopy):
 
 Bakker, Mark, Post, Vincent, Langevin, C. D., Hughes, J. D., White, J. T., Starn, J. J. and Fienen, M. N., 2016, Scripting MODFLOW Model Development Using Python and FloPy: Groundwater, v. 54, p. 733–739, doi:10.1111/gwat.12413.
 
@@ -54,15 +54,15 @@ Bakker, Mark, Post, Vincent, Langevin, C. D., Hughes, J. D., White, J. T., Leaf,
 
 Especially 2 notebooks: *flopy3_swi2package_ex4.ipynb* (http://github.com/modflowpy/flopy/blob/7cb429f81a9206fa450cceff21c695faf01fce41/examples/Notebooks/flopy3_swi2package_ex1.ipynb) and *flopy3_swi2package_ex4.ipynb* (http://github.com/modflowpy/flopy/blob/7cb429f81a9206fa450cceff21c695faf01fce41/examples/Notebooks/flopy3_swi2package_ex4.ipynb)
 
-- The PyEMU documentation (http://github.com/pypest/pyemu):
+- **The PyEMU documentation** (http://github.com/pypest/pyemu):
 
 White, J. T., Fienen, M. N., & Doherty, J. E. (2016). A python framework for environmental model uncertainty analysis. Environmental Modelling & Software, 85, 217-228.
 
 Especially 1 notebook: *Schurexample_freyberg.ipynb* (http://github.com/pypest/pyemu/blob/e6ce853cd8126b984e363186c4cd2c425cae4a1e/examples/Schurexample_freyberg.ipynb)
 
-- Jupyter notebooks developed by Christopher Shuler :
+- **Jupyter notebooks developed by Christopher Shuler** (http://github.com/cshuler) :
 
-Especially 2 notebooks: *Shuler_CEE696_FINAL_MODEL.ipynb* (http://github.com/cshuler/CEE-699-Final/blob/master/Shuler_final/Shuler_CEE696_FINAL_MODEL.ipynb) and *Tutuila_SWI_GHB_1_MOST_CURRENT.ipynb* (https://github.com/cshuler/ASPA-UH_Integrated_Modeling_Framework/blob/master/ASPA-UH-Flopy_REPO/Models/Tutuila_SWI_GHB/Tutuila_SWI_GHB_1_MOST_CURRENT.ipynb)
+Especially 2 notebooks: *Shuler_CEE696_FINAL_MODEL.ipynb* (http://github.com/cshuler/CEE-699-Final/blob/master/Shuler_final/Shuler_CEE696_FINAL_MODEL.ipynb) and *Tutuila_SWI_GHB_1_MOST_CURRENT.ipynb* (http://github.com/cshuler/ASPA-UH_Integrated_Modeling_Framework/blob/master/ASPA-UH-Flopy_REPO/Models/Tutuila_SWI_GHB/Tutuila_SWI_GHB_1_MOST_CURRENT.ipynb)
 
 # Acknowledgments
 Pierre Matran and Ryma Aissat are also thanked for their occasional help debugging the Python scripts.
