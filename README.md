@@ -52,9 +52,7 @@ Bakker, Mark, Post, Vincent, Langevin, C. D., Hughes, J. D., White, J. T., Starn
 
 Bakker, Mark, Post, Vincent, Langevin, C. D., Hughes, J. D., White, J. T., Leaf, A. T., Paulinski, S. R., Larsen, J. D., Toews, M. W., Morway, E. D., Bellino, J. C., Starn, J. J., and Fienen, M. N., 2020, FloPy v3.3.3 — release candidate: U.S. Geological Survey Software Release, 27 October 2020, http://dx.doi.org/10.5066/F7BK19FH
 
-Especially 2 notebooks:
-- *flopy3_swi2package_ex4.ipynb* (http://github.com/modflowpy/flopy/blob/7cb429f81a9206fa450cceff21c695faf01fce41/examples/Notebooks/flopy3_swi2package_ex1.ipynb)
-- *flopy3_swi2package_ex4.ipynb* (http://github.com/modflowpy/flopy/blob/7cb429f81a9206fa450cceff21c695faf01fce41/examples/Notebooks/flopy3_swi2package_ex4.ipynb)
+Especially 2 notebooks: *flopy3_swi2package_ex4.ipynb* (http://github.com/modflowpy/flopy/blob/7cb429f81a9206fa450cceff21c695faf01fce41/examples/Notebooks/flopy3_swi2package_ex1.ipynb) and *flopy3_swi2package_ex4.ipynb* (http://github.com/modflowpy/flopy/blob/7cb429f81a9206fa450cceff21c695faf01fce41/examples/Notebooks/flopy3_swi2package_ex4.ipynb)
 
 - The PyEMU documentation (http://github.com/pypest/pyemu):
 
@@ -64,9 +62,7 @@ Especially 1 notebook: *Schurexample_freyberg.ipynb* (http://github.com/pypest/p
 
 - Jupyter notebooks developed by Christopher Shuler :
 
-Especially 2 notebooks:
-- *Shuler_CEE696_FINAL_MODEL.ipynb* (http://github.com/cshuler/CEE-699-Final/blob/master/Shuler_final/Shuler_CEE696_FINAL_MODEL.ipynb)
-- *Tutuila_SWI_GHB_1_MOST_CURRENT.ipynb* (https://github.com/cshuler/ASPA-UH_Integrated_Modeling_Framework/blob/master/ASPA-UH-Flopy_REPO/Models/Tutuila_SWI_GHB/Tutuila_SWI_GHB_1_MOST_CURRENT.ipynb)
+Especially 2 notebooks: *Shuler_CEE696_FINAL_MODEL.ipynb* (http://github.com/cshuler/CEE-699-Final/blob/master/Shuler_final/Shuler_CEE696_FINAL_MODEL.ipynb) and *Tutuila_SWI_GHB_1_MOST_CURRENT.ipynb* (https://github.com/cshuler/ASPA-UH_Integrated_Modeling_Framework/blob/master/ASPA-UH-Flopy_REPO/Models/Tutuila_SWI_GHB/Tutuila_SWI_GHB_1_MOST_CURRENT.ipynb)
 
 # Acknowledgments
 Pierre Matran and Ryma Aissat are also thanked for their occasional help debugging the Python scripts.
