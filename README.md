@@ -9,7 +9,7 @@ This folder contains all the files necessary to conduct parameter estimation usi
 - the main Python script controlling model run using FloPy & generating the .dat files in the **model_outputs** folder: *model_run_pest.py*
 - the Python script containing functions used by *model_run_pest.py* to run the model: *functions_model_run.py*
 - the binary file containing input information (e.g. ibound, sea, dem and geology grids; the row & col location of municipal wells and of all observations): *preproc_IDM_20m_qgis_v6.bin* (see http://github.com/apryet/Qgridder)
-- the file containing the pilot point kriging factors (for hydraulic conductivity): *pp_30max.fac*
+- the file containing the pilot point kriging factors (for hydraulic conductivity): *pp_30max.fac* (Note: Unzip the folder **pp_30max.zip**)
 
 - the **model_files** folder: contains PEST observations & forecasts (*hwells_obs.csv*, *hdomest_obs.csv*, *zwells_obs.csv*, *ztdem_obs.csv*, *zert_obs.csv*, *FWstorage_obs.csv*), PEST parameters (*param.csv*), and information used for the MNW2 package (*muni_wells_mnw2_data.csv*)
 - the **model_ouputs** folder: contains the simulated data (*hwells_sim.dat*, *hdomest_sim.dat*, *zwells_sim.dat*, *ztdem_sim.dat*, *zert_sim.dat*, *fw_storage_sim.dat*)
@@ -33,7 +33,7 @@ This folder contains all the files necessary to analyze the outputs of parameter
 - the Python script containing functions used by *linear_analysis.py* to plot the Figures 5, 7-9 and A.1: *functions_linear_analysis.py*
 
 - the binary file containing input information (e.g. ibound, sea, dem and geology grids; the row & col location of municipal wells and of all observations): *preproc_IDM_20m_qgis_v6.bin*
-- the file containing the pilot point kriging factors (for hydraulic conductivity): *pp_30max.fac*
+- the file containing the pilot point kriging factors (for hydraulic conductivity): *pp_30max.fac* (Note: Unzip the folder **pp_30max.zip**)
 - the file containing information used for the MNW2 package: *muni_wells_mnw2_data.csv*
 
 ## 3) 'gis' folder
