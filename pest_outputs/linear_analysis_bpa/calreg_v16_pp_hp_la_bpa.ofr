@@ -1,6 +1,0 @@
- OBJECTIVE FUNCTION COMPONENTS AT END OF ITERATION
- (Regularisation groups are excluded as they are weight-factor dependent.)
-
- iteration    measurement         regularisation      fw_storage     hmuni          hdeep          hshallow       hdomest        zert           zwells         ztdem          
-   0           1048.18             11.9185             0.00000        96.5006        84.5192        22.9719        0.00000        438.293        41.7049        364.192      
-   1           1048.18             11.9185             0.00000        96.5006        84.5192        22.9719        0.00000        438.293        41.7049        364.192      
