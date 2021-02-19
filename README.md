@@ -52,7 +52,7 @@ Bakker, Mark, Post, Vincent, Langevin, C. D., Hughes, J. D., White, J. T., Starn
 
 Bakker, Mark, Post, Vincent, Langevin, C. D., Hughes, J. D., White, J. T., Leaf, A. T., Paulinski, S. R., Larsen, J. D., Toews, M. W., Morway, E. D., Bellino, J. C., Starn, J. J., and Fienen, M. N., 2020, FloPy v3.3.3 — release candidate: U.S. Geological Survey Software Release, 27 October 2020, http://dx.doi.org/10.5066/F7BK19FH
 
-Especially 2 notebooks: *flopy3_swi2package_ex4.ipynb* (http://github.com/modflowpy/flopy/blob/7cb429f81a9206fa450cceff21c695faf01fce41/examples/Notebooks/flopy3_swi2package_ex1.ipynb) and *flopy3_swi2package_ex4.ipynb* (http://github.com/modflowpy/flopy/blob/7cb429f81a9206fa450cceff21c695faf01fce41/examples/Notebooks/flopy3_swi2package_ex4.ipynb)
+Especially 3 notebooks: *flopy3_swi2package_ex4.ipynb* (http://github.com/modflowpy/flopy/blob/7cb429f81a9206fa450cceff21c695faf01fce41/examples/Notebooks/flopy3_swi2package_ex1.ipynb), *flopy3_swi2package_ex4.ipynb* (http://github.com/modflowpy/flopy/blob/7cb429f81a9206fa450cceff21c695faf01fce41/examples/Notebooks/flopy3_swi2package_ex4.ipynb) and *flopy3_mnw2package_example* (http://github.com/modflowpy/flopy/blob/7cb429f81a9206fa450cceff21c695faf01fce41/examples/Notebooks/flopy3_mnw2package_example.ipynb)
 
 - **The PyEMU documentation** (http://github.com/pypest/pyemu):
 
