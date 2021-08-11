@@ -1,5 +1,8 @@
 # swi2-magdalen-islands
 
+This is the Supplementary Data for the paper:
+Coulon, C., Pryet, A., Lemieux, J. M., Yrro, B. J. F., Bouchedda, A., Gloaguen, E., Comte, J.C., Dupuis, J.C. & Banton, O. (2021). **A framework for parameter estimation using sharp-interface seawater intrusion models.** Journal of Hydrology, 600, 126509. https://doi.org/10.1016/j.jhydrol.2021.126509
+
 Scripts and files for the MODFLOW-SWI2 model of the Grande-Entrée Island (Magdalen Islands, Quebec, Canada).
 
 ## 1) 'model' folder: To conduct parameter estimation using PEST
